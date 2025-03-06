@@ -1,2 +1,3 @@
 # sigma-demo
-Hello, I am currently learning Git and GitHub
+ I am currently learning Git and GitHub.For educational purpose...
+
